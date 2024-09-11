@@ -1,5 +1,5 @@
 const avanca = document.querySelectorAll('.btn-proximo');
-
+Guilherme Borges da Silva Guimarães 2D
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
